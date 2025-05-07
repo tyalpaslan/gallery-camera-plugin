@@ -1,5 +1,5 @@
 {
-  "name": "@tyalpaslan/gallery-camera-plugin",
+  "name": "gallery-camera-plugin",
   "version": "1.0.0",
   "description": "Ionic Capacitor plugin for photo/video capture and gallery access",
   "main": "dist/index.js",
@@ -8,5 +8,6 @@
     "build": "tsc"
   },
   "author": "tyalpaslan",
-  "license": "MIT"
+  "license": "MIT",
+  "files": ["dist", "src"]
 }
